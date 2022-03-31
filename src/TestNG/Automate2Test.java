@@ -29,3 +29,5 @@ public class Automate2Test {
 		
 	}
 }
+
+//from cloned guy
